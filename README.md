@@ -3,24 +3,23 @@
 This project involves creating a comprehensive performance dashboard for an e-commerce website operating in four countries: India, USA, Canada, and Denmark. The goal is to provide insights into key performance indicators (KPIs) such as Net Profit, Gross Sale, Month-to-Month performance, and more, using various Power BI visualizations.
 ![Sample Projection](https://github.com/MissNeerajSharma/PowerBI/blob/main/Screenshot%202024-07-11%20112018.png)
 
-Data Description
+# Data Description
 Categories:
 
-Branded
+# Branded
 Non-branded
-Subcategories:
 
+# Subcategories:
 Ethnic Wear
 Men Kurta Set
 Lounge Wear
 Party Wear
-Data Sources:
-
+# Data Sources:
 CSV files
 SQL databases
 Excel files
 Cloud storage
-Key Performance Indicators (KPIs) Used
+# Key Performance Indicators (KPIs) Used
 Net Profit:
 
 The total profit after all expenses have been deducted from total sales.
@@ -65,8 +64,7 @@ Tables:
 
 To list top 3 retailers and detailed sales data.
 Implementation Steps
-Data Collection and Preparation:
-
+# Data Collection and Preparation:
 Collect data from CSV files, SQL databases, Excel files, and cloud storage.
 Clean and transform the data as needed.
 Data Modeling:
@@ -93,14 +91,13 @@ Ensure all data is accurately represented in the visuals.
 Validate KPIs against source data.
 Deployment:
 
-Publish the dashboard to Power BI Service.
+# Publish the dashboard to Power BI Service.
 Set up data refresh schedules to keep the dashboard up-to-date. Schedule refresh set on every alternative day at 8 PM.
 User Training and Documentation:
 
-Provide training sessions for end-users.
+# Provide training sessions for end-users.
 Create documentation for using and interpreting the dashboard.
-End-to-End Delivery:
-
+# End-to-End Delivery:
 Ensure complete delivery of the project from data collection to dashboard deployment, including all required customizations and security measures.
 [![Watch the video](https://github.com/MissNeerajSharma/PowerBI/blob/main/Screenshot%202024-07-11%20112018.png)](https://github.com/MissNeerajSharma/PowerBI/blob/main/Performance%20Dashboard.mp4)
 
